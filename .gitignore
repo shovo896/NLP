@@ -20,7 +20,8 @@ env/
 ENV/
 
 # IDE
-.vscode/
+.vscode/*
+!.vscode/rnn_text.ipynb
 .idea/
 *.swp
 *.swo
